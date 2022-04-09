@@ -10,5 +10,10 @@ Per aquesta pràctica, jo, Joan Borràs, l'he realitzat de manera individual.
 
 - PDF on es troben resoltes les qüestions de la pràctica (de la 1 a la 8).
 - Arxiu de Python on es troba el codi d'extracció d'informació (web scrapping) de la pàgina web habitaclia i conseqüen creació del dataset. 
-- El DOI de zendo amb el dataset generat. 
 - Video explicatiu del codi proporcionat. 
+
+
+# Enllaç i DOI
+
+- DOI: 10.5281/zenodo.6427057
+- Enllaç: https://zenodo.org/record/6427057#.YlFuT8jtZPY
